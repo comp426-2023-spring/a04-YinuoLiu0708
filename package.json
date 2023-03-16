@@ -19,6 +19,7 @@
   ],
   "author": "YinuoLiu",
   "license": "GPL-3.0-or-later",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a04-YinuoLiu0708/issues"
   },
