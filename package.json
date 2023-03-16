@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "a web API using Express",
   "main": "server.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "test": "node server.js --port=5555"
   },
@@ -25,6 +22,7 @@
   },
   "homepage": "https://github.com/comp426-2023-spring/a04-YinuoLiu0708#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "minimist": "^1.2.8"
   }
 }
