@@ -1,0 +1,29 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "a web API using Express",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-YinuoLiu0708.git"
+  },
+  "keywords": [
+    "API",
+    "Express"
+  ],
+  "author": "YinuoLiu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-YinuoLiu0708/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-YinuoLiu0708#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
